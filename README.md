@@ -1,0 +1,2 @@
+# pythonn
+hikka modeuls
